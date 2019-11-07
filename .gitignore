@@ -3,6 +3,12 @@ obj/
 bin/
 labcodes_answer/
 LICENSE
+ll
+opensource_os_list.md
+README
+README.md
+*.md
+
 *.md
 .gdb.in
 .qemu.out
