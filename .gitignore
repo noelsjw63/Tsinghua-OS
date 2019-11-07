@@ -2,7 +2,6 @@
 obj/
 bin/
 labcodes_answer/
-README.*
 LICENSE
 *.md
 .gdb.in
